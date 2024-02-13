@@ -27,7 +27,7 @@ Added APIs
 Changed APIs
 ^^^^^^^^^^^^
 
-* tbd
+* ``\OCP\AppFramework\Utility\ITimeFactory`` now offers a DateTimeZone generation method ``ITimeFactory::getTimeZone(?string $timezone)``
 
 Deprecated APIs
 ^^^^^^^^^^^^^^^
